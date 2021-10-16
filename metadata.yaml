@@ -1,0 +1,12 @@
+- name: Yusei Magic
+  displayname: 油性マジック
+  category: sans serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/YuseiMagic-Regular
+        codes: 7566
+        weight: 400
+        xfl: true
